@@ -1,4 +1,4 @@
-# 💾 copyNAS — Copie automatique vers NAS
+# 💾 copyNAS - Copie automatique vers NAS
 
 ![Bash](https://img.shields.io/badge/Bash-5%2B-informational?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Debian%2FUbuntu-orange?style=for-the-badge)
